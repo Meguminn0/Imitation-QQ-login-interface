@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/whiteClose.png</file>
+        <file>icon/whiteMin.png</file>
+        <file>icon/whiteSetting.png</file>
+        <file>icon/grenLock.png</file>
+        <file>icon/openLock.png</file>
+        <file>icon/deepGrenDownArrows.png</file>
+        <file>icon/deepGrenUpArrows.png</file>
+        <file>icon/grenDownArrows.png</file>
+        <file>icon/grenQRCode.png</file>
+        <file>icon/qq_logo.png</file>
+        <file>icon/deepGrenQRCode.png</file>
+        <file>icon/qq_logo.psd</file>
+        <file>icon/userNameQQLogo.png</file>
+        <file>icon/userNameQQLogo_checked.png</file>
+        <file>head1.png</file>
+        <file>head2.png</file>
+    </qresource>
+</RCC>
